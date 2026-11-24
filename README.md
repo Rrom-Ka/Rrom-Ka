@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Hits](https://hits.sh/github.com/Rrom-Ka.svg)](https://hits.sh/github.com/Rrom-Ka/)
 
-![Views](https://hits.sh)
-![Profile Views](https://komarev.com)
-![Profile Views](https://vercel.app)
+
