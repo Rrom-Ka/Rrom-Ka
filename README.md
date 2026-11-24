@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Просмотры профиля](https://github.com/Rrom-Ka)
-![Посетители](https://github.com/Rrom-Ka)
+![Просмотры профиля](https://komarev.com)
+![Посетители](https://laobi.icu)
