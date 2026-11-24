@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Просмотры профиля](https://komarev.com)
-![Посетители](https://laobi.icu)
+![Views](https://hits.sh)
+![Profile Views](https://komarev.com)
+![Profile Views](https://vercel.app)
