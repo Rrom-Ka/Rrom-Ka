@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Создается ...
 
 <!--
 **Rrom-Ka/Rrom-Ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->https://github.com/Rrom-Ka/Rrom-Ka/tree/main
+-->
 
 ![Просмотры профиля](https://github.com/Rrom-Ka)
 ![Посетители](https://github.com/Rrom-Ka)
