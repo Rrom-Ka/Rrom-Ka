@@ -24,14 +24,14 @@
 
 #### ⚛️ React и TypeScript
 * **[CinemaGuide (VK_MapycR)](https://github.com/Rrom-Ka/VK_MapycR)** — Онлайн-кинотеатр на **React 18** и **TypeScript** (`Vite`, `TanStack Query`, `React Router v6`, `React Hook Form` + `Zod`). Реализованы поиск фильмов, встроенные трейлеры, бесконечный скролл, авторизация и список избранного.
-* **[PlayListUsers](https://github.com)** — Каталог пользователей и музыкальных плейлистов на **React 18**, **TypeScript** и **React Router v6**. Динамический роутинг, строгая типизация (Discriminated Unions) и синхронизация фильтров с адресной строкой через `URLSearchParams`.
-* **[RestaurantFinder](https://github.com)** *(проверьте имя репозитория)* — Интерактивная витрина ресторанов на **React** с живым поиском, умной фильтрацией, динамическим рейтингом и асинхронной загрузкой данных.
+* **[PlayListUsers](https://github.com/Rrom-Ka/PlayListUsers)** — Каталог пользователей и музыкальных плейлистов на **React 18**, **TypeScript** и **React Router v6**. Динамический роутинг, строгая типизация (Discriminated Unions) и синхронизация фильтров с адресной строкой через `URLSearchParams`.
+* **[RestaurantFinder](https://github.com/Rrom-Ka/RestaurantFinder)**  — Интерактивная витрина ресторанов на **React** с живым поиском, умной фильтрацией, динамическим рейтингом и асинхронной загрузкой данных.
 
 #### ⚡ JavaScript (ES6+) и Node.js (Fullstack)
-* **[CRM-система управления клиентами](https://github.com)** — SPA на **Vanilla JS** и **REST API**: полный цикл CRUD, многоуровневая сортировка, живой поиск с автодополнением с клавиатуры, динамические контакты и валидация форм.
-* **[Тайм-трекер (Timers_NodeJS)](https://github.com)** — Веб-приложение для учёта времени на **Node.js** в двух версиях: SPA на **Vanilla JS (AJAX)** и Real-time  с сессионной авторизацией (`httpOnly` cookies) и сохранением истории в БД.
-* **[Система учёта студентов (student-server)](https://github.com)** — Веб-приложение на **Vanilla JS**, **Bootstrap** и **Node.js REST API** с полным CRUD, трёхуровневой сортировкой, фильтрацией и авторасчётом возраста и курса.
-* **[Fullstack TODO App](https://github.com)** — Менеджер задач с сервером на чистом **Node.js** (`http`, `fs`) без фреймворков, REST API и хранением данных в JSON.
+* **[CRM-система управления клиентами](https://github.com/Rrom-Ka/CRM_JS)** — SPA на **Vanilla JS** и **REST API**: полный цикл CRUD, многоуровневая сортировка, живой поиск с автодополнением с клавиатуры, динамические контакты и валидация форм.
+* **[Тайм-трекер (Timers_NodeJS)](https://github.com/Rrom-Ka/Timers_NodeJS)** — Веб-приложение для учёта времени на **Node.js** в двух версиях: SPA на **Vanilla JS (AJAX)** и Real-time  с сессионной авторизацией (`httpOnly` cookies) и сохранением истории в БД.
+* **[Система учёта студентов (student-server)](https://github.com/Rrom-Ka/student-server)** — Веб-приложение на **Vanilla JS**, **Bootstrap** и **Node.js REST API** с полным CRUD, трёхуровневой сортировкой, фильтрацией и авторасчётом возраста и курса.
+* **[Fullstack TODO App](https://github.com/Rrom-Ka/todo-server)** — Менеджер задач с сервером на чистом **Node.js** (`http`, `fs`) без фреймворков, REST API и хранением данных в JSON.
 
 #### 🎨 Адаптивная вёрстка и сборка
 * **[Blanchard — Художественная галерея](https://github.com)** — Адаптивный лендинг на **HTML5**, **CSS3** и **JS**: три независимых слайдера (`Swiper.js`), аккордеоны, табы, модальные окна, интеграция **Яндекс Карт** и отправка заявок через **PHP / PHPMailer**.
