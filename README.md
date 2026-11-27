@@ -4,7 +4,7 @@
 
 - 🔭 Сейчас углубляю знания в архитектуре React-приложений, SSR (Webpack) и управлении состоянием.
 - 🎯 Открыт к предложениям о работе (Junior / Junior+ Frontend Developer).
-- 📫 Связаться со мной: [Telegram @kuchin_rg](https://t.me/kuchin_rg) | [Email sbrkrg74@gmail.com](mailto:sbrkrg74@gmail.com) | [Резюме на hh.ru не создано](https://hh.ru)
+- 📫 Связаться со мной: Telegram [@kuchin_rg](https://t.me) | Email [sbrkrg74@gmail.com](mailto:sbrkrg74@gmail.com) | [Резюме на hh.ru не создано](https://hh.ru)
 
 ---
 
