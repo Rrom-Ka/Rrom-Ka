@@ -10,23 +10,23 @@
 
 ### 🛠 Технологический стек
 
-            ![CSS3](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title='html5' width='40' heigt='40'/>)
           
-
-![React](https://shields.io)
-![TypeScript](https://shields.io)
-![JavaScript](https://shields.io)
-![HTML5](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title='html5' width='40' heigt='40'/>)
-![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg)
-![Vue.js](https://shields.io)
-![React Router](https://shields.io)
-![React Query](https://shields.io)
-![Vite](https://shields.io)
-![Webpack](https://shields.io)
-![Gulp](https://shields.io)
-![Node.js](https://shields.io)
-![Express](https://shields.io)
-![Git](https://shields.io)
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+          
+                
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" alt="React" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40" />&nbsp;
+![JavaScript]<img src="" title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp;
+![HTML5]<img src="" title="HTML5" alt="HTML5" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40" />&nbsp;
+![React Router]<img src="" title="React Router" alt="React Router" width="40" height="40" />&nbsp;
+![React Query]<img src="" title="React Query" alt="React Query" width="40" height="40" />&nbsp;
+![Vite]<img src="" title="Vite" alt="Vite" width="40" height="40" />&nbsp;
+![Webpack]<img src="" title="Webpack" alt="Webpack" width="40" height="40" />&nbsp;
+![Gulp]<img src="" title="Gulp" alt="Gulp" width="40" height="40" />&nbsp;
+![Node.js]<img src="" title="Node.js" alt="Node.js" width="40" height="40" />&nbsp;
+![Express]<img src="" title="Express" alt="Express" width="40" height="40" />&nbsp;
+![Git]<img src="" title="Git" alt="Git" width="40" height="40" />&nbsp;
 
 <details>
 <summary><b>Подробный список навыков</b></summary>
