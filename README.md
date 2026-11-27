@@ -43,8 +43,5 @@
 ### 📊 Статистика профиля
 
 [![Hits](https://hits.sh/github.com/Rrom-Ka.svg)](https://hits.sh/github.com/Rrom-Ka/)
-![GitHub Stats](https://vercel.app)
-
-[![Hits](https://hits.sh/github.com/Rrom-Ka.svg)](https://hits.sh/github.com/Rrom-Ka/)
 
 
