@@ -10,23 +10,21 @@
 
 ### 🛠 Технологический стек
 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
           
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-          
-                
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" alt="React" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40" />&nbsp;
-![JavaScript]<img src="" title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp;
-![HTML5]<img src="" title="HTML5" alt="HTML5" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40" />&nbsp;
-![React Router]<img src="" title="React Router" alt="React Router" width="40" height="40" />&nbsp;
-![React Query]<img src="" title="React Query" alt="React Query" width="40" height="40" />&nbsp;
-![Vite]<img src="" title="Vite" alt="Vite" width="40" height="40" />&nbsp;
-![Webpack]<img src="" title="Webpack" alt="Webpack" width="40" height="40" />&nbsp;
-![Gulp]<img src="" title="Gulp" alt="Gulp" width="40" height="40" />&nbsp;
-![Node.js]<img src="" title="Node.js" alt="Node.js" width="40" height="40" />&nbsp;
-![Express]<img src="" title="Express" alt="Express" width="40" height="40" />&nbsp;
-![Git]<img src="" title="Git" alt="Git" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original-wordmark.svg" title="React Router" alt="React Router" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" title="React Query" alt="React Query" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original-wordmark.svg" title="Vite" alt="Vite" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg" title="Gulp" alt="Gulp" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40" />&nbsp;
 
 <details>
 <summary><b>Подробный список навыков</b></summary>
