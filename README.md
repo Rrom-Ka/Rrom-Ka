@@ -23,7 +23,7 @@
 ### 🚀 Избранные пет-проекты
 
 #### ⚛️ React и TypeScript
-* **[CinemaGuide (VK_MapycR)](https://github.com)** — Онлайн-кинотеатр на **React 18** и **TypeScript** (`Vite`, `TanStack Query`, `React Router v6`, `React Hook Form` + `Zod`). Реализованы поиск фильмов, встроенные трейлеры, бесконечный скролл, авторизация и список избранного.
+* **[CinemaGuide (VK_MapycR)](https://github.com/Rrom-Ka/VK_MapycR)** — Онлайн-кинотеатр на **React 18** и **TypeScript** (`Vite`, `TanStack Query`, `React Router v6`, `React Hook Form` + `Zod`). Реализованы поиск фильмов, встроенные трейлеры, бесконечный скролл, авторизация и список избранного.
 * **[PlayListUsers](https://github.com)** — Каталог пользователей и музыкальных плейлистов на **React 18**, **TypeScript** и **React Router v6**. Динамический роутинг, строгая типизация (Discriminated Unions) и синхронизация фильтров с адресной строкой через `URLSearchParams`.
 * **[RestaurantFinder](https://github.com)** *(проверьте имя репозитория)* — Интерактивная витрина ресторанов на **React** с живым поиском, умной фильтрацией, динамическим рейтингом и асинхронной загрузкой данных.
 
