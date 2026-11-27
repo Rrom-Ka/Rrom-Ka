@@ -10,6 +10,9 @@
 
 ### 🛠 Технологический стек
 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+          
+
 ![React](https://shields.io)
 ![TypeScript](https://shields.io)
 ![JavaScript](https://shields.io)
