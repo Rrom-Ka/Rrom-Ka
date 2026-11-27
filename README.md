@@ -10,14 +10,14 @@
 
 ### 🛠 Технологический стек
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+            ![CSS3](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title='html5' width='40' heigt='40'/>)
           
 
 ![React](https://shields.io)
 ![TypeScript](https://shields.io)
 ![JavaScript](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
+![HTML5](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title='html5' width='40' heigt='40'/>)
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg)
 ![Vue.js](https://shields.io)
 ![React Router](https://shields.io)
 ![React Query](https://shields.io)
