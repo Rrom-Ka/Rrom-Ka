@@ -12,7 +12,7 @@
 
 **Frontend:**
 - **Языки:** JavaScript (ES6+), TypeScript, HTML5, CSS3 (Flexbox, Grid, CSS Modules, БЭМ)
-- **Фреймворки и библиотеки:** React 18, Vue.js 2, React Router v6, TanStack Query (React Query), React Hook Form, Zod
+- **Фреймворки и библиотеки:** React 18, React Router v6, TanStack Query (React Query), React Hook Form, Zod
 - **Сборка и инструменты:** Vite, Webpack, Gulp 4, Babel, Git / GitHub, REST API, WebSockets
 
 **Backend (базовый опыт):**
@@ -29,7 +29,7 @@
 
 #### ⚡ JavaScript (ES6+) и Node.js (Fullstack)
 * **[CRM-система управления клиентами](https://github.com)** — SPA на **Vanilla JS** и **REST API**: полный цикл CRUD, многоуровневая сортировка, живой поиск с автодополнением с клавиатуры, динамические контакты и валидация форм.
-* **[Тайм-трекер (Timers_NodeJS)](https://github.com)** — Веб-приложение для учёта времени на **Node.js** в двух версиях: SPA на **Vanilla JS (AJAX)** и Real-time на **Vue.js 2 + WebSockets** с сессионной авторизацией (`httpOnly` cookies) и сохранением истории в БД.
+* **[Тайм-трекер (Timers_NodeJS)](https://github.com)** — Веб-приложение для учёта времени на **Node.js** в двух версиях: SPA на **Vanilla JS (AJAX)** и Real-time  с сессионной авторизацией (`httpOnly` cookies) и сохранением истории в БД.
 * **[Система учёта студентов (student-server)](https://github.com)** — Веб-приложение на **Vanilla JS**, **Bootstrap** и **Node.js REST API** с полным CRUD, трёхуровневой сортировкой, фильтрацией и авторасчётом возраста и курса.
 * **[Fullstack TODO App](https://github.com)** — Менеджер задач с сервером на чистом **Node.js** (`http`, `fs`) без фреймворков, REST API и хранением данных в JSON.
 
