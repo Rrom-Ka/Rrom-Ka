@@ -10,6 +10,38 @@
 
 ### 🛠 Технологический стек
 
+![React](https://shields.io)
+![TypeScript](https://shields.io)
+![JavaScript](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![Vue.js](https://shields.io)
+![React Router](https://shields.io)
+![React Query](https://shields.io)
+![Vite](https://shields.io)
+![Webpack](https://shields.io)
+![Gulp](https://shields.io)
+![Node.js](https://shields.io)
+![Express](https://shields.io)
+![Git](https://shields.io)
+
+<details>
+<summary><b>Подробный список навыков</b></summary>
+
+**Frontend:**
+- **Языки:** JavaScript (ES6+), TypeScript, HTML5, CSS3 (Flexbox, Grid, CSS Modules, БЭМ)
+- **Фреймворки и библиотеки:** React 18, Vue.js 2, React Router v6, TanStack Query (React Query), React Hook Form, Zod
+- **Сборка и инструменты:** Vite, Webpack, Gulp 4, Babel, Git / GitHub, REST API, WebSockets
+
+**Backend (базовый опыт):**
+- Node.js (Express, нативные модули `http`, `fs`), PHP (PHPMailer), работа с JSON и реляционными БД
+
+</details>
+
+---
+
+### 🛠 Технологический стек
+
 **Frontend:**
 - **Языки:** JavaScript (ES6+), TypeScript, HTML5, CSS3 (Flexbox, Grid, CSS Modules, БЭМ)
 - **Фреймворки и библиотеки:** React 18, React Router v6, TanStack Query (React Query), React Hook Form, Zod
