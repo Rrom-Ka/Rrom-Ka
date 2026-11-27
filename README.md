@@ -31,25 +31,13 @@
 
 **Frontend:**
 - **Языки:** JavaScript (ES6+), TypeScript, HTML5, CSS3 (Flexbox, Grid, CSS Modules, БЭМ)
-- **Фреймворки и библиотеки:** React 18, Vue.js 2, React Router v6, TanStack Query (React Query), React Hook Form, Zod
+- **Фреймворки и библиотеки:** React 18, React Router v6, TanStack Query (React Query), React Hook Form, Zod
 - **Сборка и инструменты:** Vite, Webpack, Gulp 4, Babel, Git / GitHub, REST API, WebSockets
 
 **Backend (базовый опыт):**
 - Node.js (Express, нативные модули `http`, `fs`), PHP (PHPMailer), работа с JSON и реляционными БД
 
 </details>
-
----
-
-### 🛠 Технологический стек
-
-**Frontend:**
-- **Языки:** JavaScript (ES6+), TypeScript, HTML5, CSS3 (Flexbox, Grid, CSS Modules, БЭМ)
-- **Фреймворки и библиотеки:** React 18, React Router v6, TanStack Query (React Query), React Hook Form, Zod
-- **Сборка и инструменты:** Vite, Webpack, Gulp 4, Babel, Git / GitHub, REST API, WebSockets
-
-**Backend (базовый опыт):**
-- Node.js (Express, нативные модули `http`, `fs`), PHP (PHPMailer), работа с JSON и реляционными БД
 
 ---
 
